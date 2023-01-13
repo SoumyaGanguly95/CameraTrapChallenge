@@ -130,3 +130,7 @@ dmypy.json
 
 # Project Data 
 /CoherentSequenceIdentification/data
+
+# Project Models
+/ObjectDetection/darknet
+/ObjectDetection/Tensorflow
